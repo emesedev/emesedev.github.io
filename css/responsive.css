@@ -1,0 +1,26 @@
+@media (min-width: 600px) {
+    .mui-1ekb41w {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+}
+
+@media (min-width: 1536px) {
+    .mui-1ekb41w {
+        max-width: 1536px;
+    }
+}
+
+@media (min-width: 0px) {
+    @media (orientation: landscape) {
+        .mui-12o98wt {
+            min-height: 48px;
+        }
+    }
+}
+
+@media (min-width: 600px) {
+    .mui-12o98wt {
+        min-height: 64px;
+    }
+}
